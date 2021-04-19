@@ -1,6 +1,6 @@
-### Digital Nomad + Entrepreneur + Product Manager :P 👋
+### 👋 Digital Nomad + Entrepreneur + Product Manager
 
-👋 Hi! I'm Jorge, I love launching products and share with you how to do the same. Hope you find useful my public repos. You can also find videos and articles about software development and product management [in my website](https://jorgeferreiro.com/). Feel free to reach out!
+Hi! I'm Jorge, I love launching products and share with you how to do the same. Hope you find useful my public repos. You can also find videos and articles about software development and product management [in my website](https://jorgeferreiro.com/). Feel free to reach out!
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new side projects
